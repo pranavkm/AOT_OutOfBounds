@@ -1,0 +1,142 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = bnew
+build_property.RootNamespace = bnew
+build_property.ProjectDir = D:\temp\testapp\bnew\
+build_property.RazorLangVersion = 5.0
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\temp\testapp\bnew
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog = 
+
+[d:/temp/testapp/bnew/App.razor]
+build_metadata.AdditionalFiles.TargetPath = App.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\App.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\Counter.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\Counter.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\FetchData.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\FetchData.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/GridRendering.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\GridRendering.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\GridRendering.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\Index.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\Index.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/Json.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\Json.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\Json.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/OrgChart.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\OrgChart.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\OrgChart.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/PersonDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\PersonDisplay.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\PersonDisplay.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/RenderList.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\RenderList.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\RenderList.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/TimerComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\TimerComponent.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\TimerComponent.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Pages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\_Imports.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Pages\_Imports.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/ComplexTable/Cell.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\ComplexTable\Cell.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\ComplexTable\Cell.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/ComplexTable/Row.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\ComplexTable\Row.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\ComplexTable\Row.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/ComplexTable/RowCollection.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\ComplexTable\RowCollection.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\ComplexTable\RowCollection.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/ComplexTable/TableComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\ComplexTable\TableComponent.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\ComplexTable\TableComponent.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/FastGrid/Grid.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\FastGrid\Grid.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\FastGrid\Grid.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/FastGrid/GridColumn.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\FastGrid\GridColumn.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\FastGrid\GridColumn.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/PlainTable/Cell.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\PlainTable\Cell.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\PlainTable\Cell.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/PlainTable/Row.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\PlainTable\Row.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\PlainTable\Row.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/PlainTable/RowCollection.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\PlainTable\RowCollection.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\PlainTable\RowCollection.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/PlainTable/TableComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\PlainTable\TableComponent.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\PlainTable\TableComponent.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\SurveyPrompt.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\SurveyPrompt.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = _Imports.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\_Imports.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/temp/testapp/bnew/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\MainLayout.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\MainLayout.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = b-fobw3h9va4
+
+[d:/temp/testapp/bnew/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\NavMenu.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\temp\testapp\bnew\obj\Release\net6.0\Razor\Shared\NavMenu.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = b-yq405i0cv3

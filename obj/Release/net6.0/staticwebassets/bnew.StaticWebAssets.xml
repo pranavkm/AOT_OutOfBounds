@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\temp\testapp\bnew\bin\Release\net6.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\temp\testapp\bnew\obj\Release\net6.0\scopedcss\bundle\" />
+</StaticWebAssets>
